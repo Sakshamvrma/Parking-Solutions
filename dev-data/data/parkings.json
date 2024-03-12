@@ -1,0 +1,173 @@
+[
+  {
+    "location": {
+      "description": "Banff, CAN",
+      "type": "Point",
+      "coordinates": [-115.570154, 51.178456],
+      "address": "224 Banff Ave, Banff, AB, Canada"
+    },
+    "role": "public",
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["parking-1-1.jpg", "parking-1-2.jpg", "parking-1-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Parking 1",
+    "maxSlots": 25,
+    "owner": ["5c8a24a02f8fb814b56fa193"],
+    "price": 397,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "parking-1-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "role": "public",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["parking-2-1.jpg", "parking-2-2.jpg", "parking-2-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Parking 2",
+    "maxSlots": 15,
+    "owner": ["5c8a24822f8fb814b56fa192"],
+    "price": 497,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "parking-2-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "Aspen, USA",
+      "type": "Point",
+      "coordinates": [-106.822318, 39.190872],
+      "address": "419 S Mill St, Aspen, CO 81611, USA"
+    },
+    "role": "public",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["parking-3-1.jpg", "parking-3-2.jpg", "parking-3-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Parking 3",
+    "maxSlots": 10,
+    "owner": ["5c8a245f2f8fb814b56fa191"],
+    "price": 997,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "parking-3-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "NYC, USA",
+      "type": "Point",
+      "coordinates": [-73.985141, 40.75894],
+      "address": "Manhattan, NY 10036, USA"
+    },
+    "role": "public",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["parking-4-1.jpg", "parking-4-2.jpg", "parking-4-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Parking 4",
+    "maxSlots": 20,
+    "owner": ["5c8a24402f8fb814b56fa190"],
+    "price": 1197,
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "imageCover": "parking-4-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "Las Vegas, USA",
+      "type": "Point",
+      "coordinates": [-115.172652, 36.110904],
+      "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+    },
+    "role": "public",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["parking-5-1.jpg", "parking-5-2.jpg", "parking-5-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Parking 5",
+    "maxSlots": 15,
+    "owner": ["5c8a24282f8fb814b56fa18f"],
+    "price": 1497,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "parking-5-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "California, USA",
+      "type": "Point",
+      "coordinates": [-118.803461, 34.006072],
+      "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+    },
+    "role": "private",
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["parking-6-1.jpg", "parking-6-2.jpg", "parking-6-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Parking 6",
+    "maxSlots": 2,
+    "owner": ["5c8a23de2f8fb814b56fa18e"],
+    "price": 2997,
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "parking-6-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "California, USA",
+      "type": "Point",
+      "coordinates": [-122.29286, 38.294065],
+      "address": "560 Jefferson St, Napa, CA 94559, USA"
+    },
+    "role": "private",
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["parking-7-1.jpg", "parking-7-2.jpg", "parking-7-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Parking 7",
+    "maxSlots": 1,
+    "owner": ["5c8a23c82f8fb814b56fa18d"],
+    "price": 1997,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "parking-7-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "Utah, USA",
+      "type": "Point",
+      "coordinates": [-109.55099, 37.283469],
+      "address": "Bluff, UT 84512, USA"
+    },
+    "role": "private",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["parking-8-1.jpg", "parking-8-2.jpg", "parking-8-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Parking 8",
+    "maxSlots": 1,
+    "owner": ["5c8a23412f8fb814b56fa18c"],
+    "price": 2997,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "parking-8-cover.jpg"
+  },
+  {
+    "location": {
+      "description": "Yellowknife, CAN",
+      "type": "Point",
+      "coordinates": [-114.406097, 62.439943],
+      "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    "role": "private",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["parking-9-1.jpg", "parking-9-2.jpg", "parking-9-3.jpg"],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Parking 9",
+    "maxSlots": 2,
+    "owner": ["5c8a22c62f8fb814b56fa18b"],
+    "price": 1497,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "parking-9-cover.jpg"
+  }
+]
