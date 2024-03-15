@@ -1,9 +1,12 @@
+const path = require(`path`);
 const express = require('express');
 const globalErrorHandler = require(`./controllers/errorController`);
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 const mongoSanitize = require(`express-mongo-sanitize`);
 const xss = require(`xss-clean`);
+const cors = require(`cors`);
+
 const parkingRouter = require(`./routes/parkingRouter`);
 const userRouter = require(`./routes/userRouter`);
 const reviewRouter = require(`./routes/reviewRouter`);
@@ -12,6 +15,12 @@ const app = express();
 
 //Global Middlewares-
 
+//Implement CORS
+app.use(cors());
+
+app.options(`*`, cors());
+//Serving static files
+app.use(express.static(path.join(__dirname, `public`)));
 //Set Security HTTP Headers
 app.use(helmet());
 //Limit requests from same IP
@@ -27,9 +36,9 @@ app.use(express.json());
 app.use(mongoSanitize());
 //Data sanitization against XSS
 app.use(xss());
-//Serving static files
-app.use(express.static(`${__dirname}/public`));
-
+app.get(`/`, (req, res) => {
+  res.sendFile(`/index.html`);
+});
 app.use(`/api/v1/parkings`, parkingRouter);
 app.use(`/api/v1/users`, userRouter);
 app.use(`/api/v1/reviews`, reviewRouter);

@@ -13,6 +13,12 @@ const parkingSchema = new mongoose.Schema(
       type: Number,
       required: [true, `A parking must have a slot count`],
     },
+    freeSlots:{
+      type: Number,
+      default: function(){
+        return this.maxSlots;
+      }
+    },
     role: {
       type: String,
       enum: [`public`, `private`],
