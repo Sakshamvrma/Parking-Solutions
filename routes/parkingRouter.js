@@ -1,6 +1,7 @@
 const express = require(`express`);
 const parkingController = require(`../controllers/parkingController`);
 const authController = require(`../controllers/authController`);
+const freeSlotsController = require(`../controllers/freeSlotsController`);
 const reviewRouter = require(`./reviewRouter`);
 
 const router = express.Router();
@@ -20,7 +21,7 @@ router
   );
 router
   .route(`/:id`)
-  .get(parkingController.getParking)
+  .get(freeSlotsController.updateFreeSlots,parkingController.getParking)
   .patch(
     authController.protect,
     authController.restrictTo(`admin`, `owner`),

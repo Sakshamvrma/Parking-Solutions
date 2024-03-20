@@ -134,40 +134,40 @@
   },
   {
     "location": {
-      "description": "Utah, USA",
+      "description": "Near Chemistry Department, NITH",
       "type": "Point",
-      "coordinates": [-109.55099, 37.283469],
-      "address": "Bluff, UT 84512, USA"
+      "coordinates": [76.526018,31.708193],
+      "address": "PG5G+78Q, Hamirpur, Himachal Pradesh 177005"
     },
     "role": "private",
     "ratingsAverage": 4.8,
     "ratingsQuantity": 6,
     "images": ["parking-8-1.jpg", "parking-8-2.jpg", "parking-8-3.jpg"],
     "_id": "5c88fa8cf4afda39709c2970",
-    "name": "Parking 8",
-    "maxSlots": 1,
+    "name": "Chemistry Department Parking",
+    "maxSlots": 3,
     "owner": ["5c8a23412f8fb814b56fa18c"],
     "price": 2997,
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Parking for all type of parkings",
     "imageCover": "parking-8-cover.jpg"
   },
   {
     "location": {
-      "description": "Yellowknife, CAN",
+      "description": "Near Nescafe, NITH",
       "type": "Point",
-      "coordinates": [-114.406097, 62.439943],
-      "address": "Yellowknife, NT X1A 2L2, Canada"
+      "coordinates": [76.52810454375891,31.707535938425952],
+      "address": "Central Block, PG5H+266, Hamirpur, Himachal Pradesh 177005"
     },
     "role": "private",
     "ratingsAverage": 4.7,
     "ratingsQuantity": 7,
     "images": ["parking-9-1.jpg", "parking-9-2.jpg", "parking-9-3.jpg"],
     "_id": "5c88fa8cf4afda39709c2974",
-    "name": "Parking 9",
+    "name": "Central Block Parking",
     "maxSlots": 2,
     "owner": ["5c8a22c62f8fb814b56fa18b"],
     "price": 1497,
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "description": "Parking for two wheelers only.",
     "imageCover": "parking-9-cover.jpg"
   }
 ]
